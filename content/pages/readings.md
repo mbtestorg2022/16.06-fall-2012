@@ -8,19 +8,156 @@ This section outlines the assigned reading for different sections of the course.
 
 \[FPE\] = Franklin, Gene, J. David Powell, and Abbas Emami–Naeini. _Feedback Control of Dynamic Systems_. 6th ed. Prentice Hall, 2009. ISBN: 9780136019695.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| L1–3 | Introduction | \[FPE\] Chapters 1, 2, 3.1–3.4 |
-| L4–6 | Dynamic response | \[FPE\] Chapter 3.1, B |
-| L7–9 | Transient response and performance | \[FPE\] Chapter 3.1–3.5 |
-| L10–11 | Disturbances and sensitivity | \[FPE\] Chapter 4.1–4.3 |
-| L12–14 | Root locus techniques | \[FPE\] Chapter 5.1–5.6 |
-| L15–16 | Bode plots | \[FPE\] Chapter 6.1 |
-| L17–19 | Nyquist criterion | \[FPE\] Chapter 6.2–6.3 |
-| L20–21 | Gain and phase margins | \[FPE\] Chapter 6.4 |
-| L22–23 | Bode gain–phase theorem | \[FPE\] Chapter 6.5 |
-| L24–26 | Bode design | \[FPE\] Chapter 6.6–6.7 |
-| L29–34 | Digital control | \[FPE\] Chapter 8 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1–3
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapters 1, 2, 3.1–3.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4–6
+{{< tdclose >}}
+{{< tdopen >}}
+Dynamic response
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 3.1, B
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7–9
+{{< tdclose >}}
+{{< tdopen >}}
+Transient response and performance
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 3.1–3.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10–11
+{{< tdclose >}}
+{{< tdopen >}}
+Disturbances and sensitivity
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 4.1–4.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12–14
+{{< tdclose >}}
+{{< tdopen >}}
+Root locus techniques
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 5.1–5.6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15–16
+{{< tdclose >}}
+{{< tdopen >}}
+Bode plots
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 6.1
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17–19
+{{< tdclose >}}
+{{< tdopen >}}
+Nyquist criterion
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 6.2–6.3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20–21
+{{< tdclose >}}
+{{< tdopen >}}
+Gain and phase margins
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 6.4
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22–23
+{{< tdclose >}}
+{{< tdopen >}}
+Bode gain–phase theorem
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 6.5
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L24–26
+{{< tdclose >}}
+{{< tdopen >}}
+Bode design
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 6.6–6.7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L29–34
+{{< tdclose >}}
+{{< tdopen >}}
+Digital control
+{{< tdclose >}}
+{{< tdopen >}}
+\[FPE\] Chapter 8
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Related Resources
 -----------------
