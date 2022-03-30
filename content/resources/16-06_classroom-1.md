@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 0c83e7ab-b911-a490-9f77-5c8b6f18ba76
 resourcetype: Image
 title: 16-06_classroom-1.png
 uid: 06020eb8-eb21-4fe4-ce6a-0d5783b4c01e
